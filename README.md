@@ -103,15 +103,15 @@ __Data Analysis Process :__<br>
 3. Used COUNTA and TOTALS options to get the count of schools for each school type.<br/>
 <br/>
 
-### _Ivy League school type has the least number of schools (7 schools) and all the schools are in only Northeastern region._
-### _State school type has the highest number of schools._
+#### _Ivy League school type has the least number of schools (7 schools) and all the schools are in only Northeastern region._
+#### _State school type has the highest number of schools._
 <br/>
 
 !['7_Github1','School count under each school type'](/7_Github.jpg)
 <br/>
 <br/>
 
-## Story Pitch : 
+# Story Pitch : 
 ### _Engineering might be in high demand as a whole. But is there any other field that is in more demand in individual regions? Is there a field that generates more revenue to that particular region? What is the field? What are the factors(like background, climate, educational revolutions, etc) of that region that makes it suitable for that field._<br/>
 <br/>
 
