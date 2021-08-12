@@ -114,7 +114,9 @@ __Data Analysis Process :__<br>
 ## Story Pitch : 
 ### _Engineering might be in high demand as a whole. But is there any other field that is in more demand in individual regions? Is there a field that generates more revenue to that particular region? What is the field? What are the factors(like background, climate, educational revolutions, etc) of that region that makes it suitable for that field._<br/>
 <br/>
+
 !['Engineering','Engineering is the dominated field of the United States in terms of Salary'](/Engineering.jpg)
+<br/>
 
 ### __Additional Sources Required :__<br/>
 * Salaries that each Major can get in each of the regions is the data that we might want to have here. I would like to use the data to analyze which field or study is in more demand in each region.<br/>
