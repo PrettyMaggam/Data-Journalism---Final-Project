@@ -142,7 +142,7 @@ I would like to interview and understand the diversity of various kinds of colle
 2. The Education Publications Center (ED Pubs) is the Department's one-stop center for access to ED information. Use the ED Pubs On-Line Ordering System (https://www.edpubs.gov/) <br/>
 <br/>
 * Toll-free number 1-877-4-ED-PUBS (877-433-7827). <br/>
-* Email: edpubs@edpubs.ed.gov.<br/>
+* Email: edpubs@edpubs.ed.gov<br/>
 <br/>
 The National Library of Education in the Institute of Education Sciences maintains a telephone line staffed by trained information specialists. Members of the public, including educators and researchers, typically call this number for information about education statistics and education research information. 
 <br/>
